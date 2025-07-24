@@ -8,11 +8,11 @@ interface ContractsConfig {
 }
 
 export const chainsToContracts: ContractsConfig = {
-    31337: {
-        usdc: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
-        nftMarketplace: "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
-        cakeNft: "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
-        moodNft: "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+    11155111: {
+        usdc: "0x616215C817d45dB8766AB10754F06af739992BCd",
+        nftMarketplace: "0x02fFbBC4737d1bB94cE8E46C87A1Fff1a0295530",
+        cakeNft: "0xAf70638D58Bcf77e7F6665D8e7f227bc35d887Df",
+        moodNft: "0x04692b52Da346fB5BeB970F8DD20cE5bc54DEA2E",
     },
 }
 
